@@ -1,3 +1,28 @@
+# 🌊 Kuramoto Dynamics & Social Physics
+### Decoding the Synchronization of Mass Behavior
+
+> **"La réalité est une onde. La vérité est une phase."**
+
+## 🔭 Survol du Projet
+Ce module du projet **Synapse-** applique la physique des oscillateurs couplés (Modèle de Kuramoto) pour décoder les comportements sociaux de masse. Nous démontrons que les phénomènes culturels sont des **transitions de phase** dictées par la force de couplage ($K$) et les fréquences intrinsèques ($\omega$).
+
+## 🧩 Les 4 Piliers de la Synchronisation
+
+| Phénomène | Fréquence | Mécanisme Kuramoto | État Critique ($K > K_c$) |
+| :--- | :--- | :--- | :--- |
+| **Le Groove** 🎵 | Haute (~Hz) | Entrainment neuronal | Phase-Locking moteur (Danse involontaire) |
+| **Le Rire** 😂 | Haute (Burst) | Dissipation d'entropie | Hystérie collective (ex: Tanganyika 1962) |
+| **La Mode** 👠 | Moyenne (Mois) | Adoption en cascade | Viralité & Saturation (Cycle de vie) |
+| **Politique** 🗳️ | Basse (Années) | Attraction/Répulsion | **État Chimère** (Polarisation & Chambres d'écho) |
+
+## 🛠️ Outils Inclus
+* **Anti-Mode Simulator :** Une simulation interactive (HTML/JS) pour visualiser comment les "contrarians" brisent la synchronisation.
+* **Groove-O-Meter :** Script Python simulant l'entrainment neuronal à la musique.
+* **Théorie de l'Omega Bias :** Extension mathématique intégrant les tendances culturelles asymétriques ($\bar{\omega} \neq 0$).
+
+---
+*Recherche dirigée par l'Architecte Bryan Ouellette - Lichen Universe Unified*
+
 # 🌀 Kuramoto Dynamics & Omega Bias Framework
 
 > **"Comprendre la synchronisation universelle : de la résonance d'un groove musical à la polarisation des sociétés."**
